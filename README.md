@@ -1,3 +1,6 @@
+## About project
+This is the second version of my form builder. I created first one when I was learning VanillaJS. Because it was quite complicated, I decided to create another version while learning React and Redux.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
