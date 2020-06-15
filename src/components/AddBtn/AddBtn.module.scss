@@ -1,0 +1,20 @@
+@import '../../styles/global.scss';
+
+.addBtn {
+  height: 60px;
+  min-width: 200px;
+  font-size: 1rem;
+  border-radius: 3px;
+  background: $green;
+  color: $white;
+  border: none;
+  box-shadow: 3px 3px 5px $transparentBlack;
+  transition: 0.3s;
+  font-family: $family;
+  font-weight: $bold;
+  cursor: pointer;
+
+  &__container {
+    margin: 50px 0;
+  }
+}
